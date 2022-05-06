@@ -1,0 +1,9 @@
+{
+	"plugin-data":
+	{
+		"name": "CMSWB Hitliste",
+		"description": "Erzeugt eine Beitrags-Statistik die in den Plugineinstellungen angezeigt wird oder unter jedem Beitrag im Frontend. Das Plugin hört auf den HOOK <code>pageEnd()</code>. Es kann über zwei Parameter in der de_DE.json angepasst werden-"
+	},
+    "log-file-format":	"Y-m-d",
+    "display-in-post":	false
+}
