@@ -1,6 +1,7 @@
 # bludit-plugin-hitliste
 
 Erzeugt eine Auswertung wie oft Beiträge eines Bludit CMS gelesen werden. Zudem werden auch fehlerhafte Zugriffe (404) oder Angriffsversuche protokolliert.
+Die Zugriffe je Beitrag können unter jedem Beitrag angezeigt werden oder/und im Backend in den Plugineinstellungen für alle Posts als Liste.
 
 ## Installation ##
 
