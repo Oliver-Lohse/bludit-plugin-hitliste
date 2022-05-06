@@ -14,3 +14,5 @@ Als Default ist `Y-m-d.log` als Dateiformat vorgegeben und kann in der de_DE.jso
 >Aktuell werden alte Log-Files nicht automatisch gelöscht, dies kommt in einer späteren Version. Sie müssen daher in einem beliebigen Turnus
 >alte Log-Files manuell aus `bl-content/workspace/cmswb-hitlist/...` löschen. Ein bequemes Setting im Backend fehlt aktuell noch, daher können die (nur)
 >zwei Parameter in der `de_DE.json` manuell eingestellt werden.
+
+https://www.cmsworkbench.de
