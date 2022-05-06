@@ -10,3 +10,6 @@ sehen Sie die summierten Zugriffe je Artikel des Blog als einfache Liste.
 ## Log-Format ##
 
 Als Default ist Y-m-d.log als Dateiformat vorgegeben und kann in der de_DE.json angepasst werden.
+
+>Aktuell werden alte Log-Files nicht automatisch gelöscht, dies kommt in einer späteren Version. Sie müssen daher in einem beliebigen Turnus
+>alte Log-Files manuell aus bl-content/workspace/cmswb-hitlist/... löschen.
